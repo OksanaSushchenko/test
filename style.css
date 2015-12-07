@@ -1,0 +1,153 @@
+#wrapper{
+    width:1400px;
+    height:765px;
+    margin:0 auto;
+    background: url(image/bg.png) repeat ;
+}
+
+#header{
+    background: url(image/header.png) no-repeat;
+    width:1400px;
+    height:119px;
+}
+
+#logo{
+    width:243px;
+    height:41px;
+    float:left;
+    margin-top:30px;
+    margin-left:212px;
+}
+
+#socialbut{
+    margin-left:946px;
+    
+}
+
+#socialbut ul li{
+    float:left;
+    margin-top:30px;
+    margin-right:23px;
+}
+
+#menu{
+    width:249px;
+    height:218px;
+    background: url(image/menu_bg.png) repeat-x;
+    margin-left:249px;
+    margin-top:40px;
+    border-radius:5px;
+    float:left;
+}
+
+#menu ul li{
+    overflow: hidden;
+}
+
+#menu ul li a{
+    font: 21px Fira Sans Book, sans-serif;
+    text-decoration:none;
+    display:block;
+    padding:18px 10px;
+}
+
+#block1{
+    background: #eff3f7;
+    width:649px;
+    height:232px;
+    margin-left:529px;
+    margin-top:40px;
+    padding-top: 19px;
+    border-radius:5px;
+   /* overflow: hidden;*/
+}
+
+.expp{
+    margin-top:20px;
+}
+.exp{
+padding-left:19px;
+color:#3ba8c0;
+font-family: Fira Sans Light;
+font-weight: normal; 
+font-size: 27px;
+overflow: hidden;
+}
+
+.img{
+    float:left;
+    padding-left:57px;
+}
+
+.place {
+padding-left:26px;
+margin-top:40px;
+color:#4a545d;
+font-family: Fira Sans Light;
+font-weight: normal; 
+font-size: 17px;
+}
+
+.date{
+padding-left:35px;
+color:#4a545d;
+font-family: Fira Sans Light;
+font-weight: normal; 
+font-size: 15px; 
+}
+
+#block2{
+    background: #eff3f7;
+    width:649px;
+    height:232px;
+    margin-left:529px;
+    margin-top:40px;
+    padding-top: 19px;
+    border-radius:5px; 
+}
+
+.place1 {
+padding-left:26px;
+margin-top:40px;
+color:#4a545d;
+font-family: Fira Sans Light;
+font-weight: normal; 
+font-size: 17px;
+}
+
+.date1 {
+padding-left:30px;
+color:#4a545d;
+font-family: Fira Sans Light;
+font-weight: normal; 
+font-size: 15px; 
+}
+.me{
+    color: #ffffff;
+}
+
+.work{
+    color: #3ba8c0;
+}
+
+.link{
+    color: #959aa8;
+}
+
+
+#footer{
+   background: url(image/footer.png) no-repeat;
+    width:1400px;
+    height:81px;
+    margin-top:65px; 
+    padding: 10px; 
+    overflow: hidden;
+}
+
+.foot{
+    margin-left:450px;
+    font-family: Fira Sans Light;
+    color: #4a545d;
+    font-weight: normal; 
+    font-size: 17px;
+}
